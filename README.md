@@ -4,6 +4,8 @@ A plugin for Godot that provides a grid-based grass placement system designed to
 
 Basically I took the grass from https://hexaquo.at/pages/grass-rendering-series-part-1-theory/, rewrote it in C# and wrapped in plugin with some UI.
 
+Demo project available at: https://github.com/glebasos/GrassGridDemo/
+
 ---
 
 ## About
